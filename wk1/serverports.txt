@@ -1,0 +1,13 @@
+What is a server port?
+>A port can be looked as for example the exact Room number of an Apartment whereas IP Adress
+ means the general area. Port is a location where information is sent.
+
+What is server port range?
+>It is Port numbers range from 0 - 65535. Ports 0 - 1023 are designated as well-known ports.
+
+How mant bits does number above represent?
+>16-bits
+
+State 10 common server ports
+>1, 5, 7, 18, 20
+ 
