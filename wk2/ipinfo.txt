@@ -1,0 +1,24 @@
+#YAHOO.COM
+IP Address: 98.137.246.7
+
+Geolocation: US (United States), CA, California, 94089 Sunnyvale
+
+#INSTAGRAM.COM
+IP Address: 35.170.146.245
+
+Geolocation: US (United States), VA, Virginia, 20149 Ashburn
+
+#GITHUB.COM
+IP Address: 140.82.113.3
+
+Geolocation: US (United States), MA, Massachusetts, 02110 Boston
+
+#LOUISCK.COM
+IP Address: 104.155.157.36
+
+Geolocation: US (United States), CA, California, 94043 Mountain View
+
+#PAYPAL.COM
+IP Address: 64.4.250.36
+
+Geolocation: US (United States), CA, California, 95131 San Jose

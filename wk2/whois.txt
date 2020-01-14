@@ -1,0 +1,87 @@
+#GOOGLE.COM
+Domain Name: GOOGLE.COM
+Registry Domain ID: 2138514_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-09-09T15:39:04Z
+Creation Date: 1997-09-15T04:00:00Z
+Registry Expiry Date: 2028-09-14T04:00:00Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: NS1.GOOGLE.COM
+Name Server: NS2.GOOGLE.COM
+Name Server: NS3.GOOGLE.COM
+Name Server: NS4.GOOGLE.COM
+DNSSEC: unsigned
+
+#YOUTUBE.COM
+Domain Name: YOUTUBE.COM
+Registry Domain ID: 142504053_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.markmonitor.com
+Registrar URL: http://www.markmonitor.com
+Updated Date: 2019-01-14T10:32:15Z
+Creation Date: 2005-02-15T05:13:12Z
+Registry Expiry Date: 2020-02-15T05:13:12Z
+Registrar: MarkMonitor Inc.
+Registrar IANA ID: 292
+Registrar Abuse Contact Email: abusecomplaints@markmonitor.com
+Registrar Abuse Contact Phone: +1.2083895740
+Domain Status: clientDeleteProhibited https://icann.org/epp#clientDeleteProhibited
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Domain Status: clientUpdateProhibited https://icann.org/epp#clientUpdateProhibited
+Domain Status: serverDeleteProhibited https://icann.org/epp#serverDeleteProhibited
+Domain Status: serverTransferProhibited https://icann.org/epp#serverTransferProhibited
+Domain Status: serverUpdateProhibited https://icann.org/epp#serverUpdateProhibited
+Name Server: NS1.GOOGLE.COM
+Name Server: NS2.GOOGLE.COM
+Name Server: NS3.GOOGLE.COM
+Name Server: NS4.GOOGLE.COM
+DNSSEC: unsigned
+
+#FACEBOOK.COM
+8,326 days old
+Created on 1997-03-28
+Expires on 2028-03-29
+Updated on 2019-10-17
+
+Name Servers:
+A.NS.FACEBOOK.COM (has 6,960 domains)
+B.NS.FACEBOOK.COM (has 6,960 domains)
+
+Contact:
+Domain Admin
+Facebook, Inc.
+1601 Willow Rd,
+Menlo Park, CA, 94025, us
+
+Registrant Org:	Facebook, Inc.
+
+#MINICLIP.COM
+Registry Expiration: 2025-06-09 03:10:12 UTC
+Registrar Expiration: 2025-06-08 22:10:12 UTC
+Created: 2000-06-09 03:10:12 UTC
+
+Name: MINICLIP.COM
+Registry Domain ID: 28882264_DOMAIN_COM-VRSN
+
+#SHERPASHARK.COM
+Registry Expiration: 2020-01-30 17:12:46 UTC
+Created: 2019-01-30 17:12:46 UTC
+
+Nameservers:
+NS6065.HOSTGATOR.COM
+NS6066.HOSTGATOR.COM
+
+Name: SHERPASHARK.COM
+
+Registrar Information:
+Name: Launchpad.com Inc.
+IANA ID: 955
