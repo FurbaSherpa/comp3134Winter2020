@@ -1,0 +1,35 @@
+# tcpdump -XX -i eth0
+
+tcpdump: verbose output suppressed, use -v or -vv for full protocol decode
+listening on eth0, link-type EN10MB (Ethernet), capture size 262144 bytes
+16:25:13.823270 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e06a423-CM688f2e06a420.cpe.net.cable.rogers.com.54232: Flags [P.], seq 2124257906:2124258014, ack 1738814924, win 40880, length 108
+        0x0000:  fe00 0000 0101 2614 c8ad 8570 0800 4510  ......&....p..E.
+        0x0010:  0094 964b 4000 4006 c835 8ac5 9fb2 63f5  ...K@.@..5....c.
+        0x0020:  4d66 0016 d3d8 7e9d 9a72 67a4 35cc 5018  Mf....~..rg.5.P.
+        0x0030:  9fb0 dc59 0000 8584 9ba1 6068 a8e3 0304  ...Y......`h....
+        0x0040:  76b3 d279 c7a8 6f2a 90e9 2ffa d803 4be0  v..y..o*../...K.
+        0x0050:  410e 7ba8 9ad2 4d94 313c 8991 fef5 922e  A.{...M.1<......
+        0x0060:  89ec ac26 fa88 4a30 8b3c f59e 513c 71df  ...&..J0.<..Q<q.
+        0x0070:  4093 eb43 e9ad 32ad c252 fccf ce75 28b7  @..C..2..R...u(.
+        0x0080:  ec04 5802 730a 7f82 4670 cb03 b0bd 9faf  ..X.s...Fp......
+        0x0090:  bae3 8c57 7ea5 45e0 4736 b3a0 ee7c 0556  ...W~.E.G6...|.V
+        0x00a0:  e1fe                                     ..
+16:25:13.823389 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e06a423-CM688f2e06a420.cpe.net.cable.rogers.com.54232: Flags [P.], seq 108:144, ack 1, win 40880, length 36
+        0x0000:  fe00 0000 0101 2614 c8ad 8570 0800 4510  ......&....p..E.
+        0x0010:  004c 964c 4000 4006 c87c 8ac5 9fb2 63f5  .L.L@.@..|....c.
+        0x0020:  4d66 0016 d3d8 7e9d 9ade 67a4 35cc 5018  Mf....~...g.5.P.
+        0x0030:  9fb0 dc11 0000 87d8 42b4 418e cb50 0281  ........B.A..P..
+        0x0040:  363a 4d99 7587 1b9f 03e6 5a64 f851 160f  6:M.u.....Zd.Q..
+        0x0050:  3223 659b 25b3 b712 c5de                 2#e.%.....
+16:25:13.823527 IP lamp-s-1vcpu-1gb-tor1-01.ssh > CPE688f2e06a423-CM688f2e06a420.cpe.net.cable.rogers.com.54232: Flags [P.], seq 144:252, ack 1, win 40880, length 108
+        0x0000:  fe00 0000 0101 2614 c8ad 8570 0800 4510  ......&....p..E.
+        0x0010:  0094 964d 4000 4006 c833 8ac5 9fb2 63f5  ...M@.@..3....c.
+        0x0020:  4d66 0016 d3d8 7e9d 9b02 67a4 35cc 5018  Mf....~...g.5.P.
+        0x0030:  9fb0 dc59 0000 8cdd d869 1009 0616 f9e1  ...Y.....i......
+        0x0040:  fa7b 8be5 c4a2 bfd4 a9a7 2edd b3f1 2caa  .{............,.
+        0x0050:  9b9f f387 dab5 c2af ddc3 ea8d 9cd8 b572  ...............r
+        0x0060:  ffc8 6921 b032 d339 dc36 5d1a 9a66 8ea7  ..i!.2.9.6]..f..
+        0x0070:  7a8d ec0c 3234 5ed8 f029 f2c3 69f8 9a7e  z...24^..)..i..~
+        0x0080:  93c9 fa6f e956 bf99 5940 be33 23ac bb5f  ...o.V..Y@.3#.._
+        0x0090:  5241 a0c0 c942 2688 5546 e430 aee0 1539  RA...B&.UF.0...9
+        0x00a0:  54c0
